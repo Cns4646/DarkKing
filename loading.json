@@ -1,0 +1,13 @@
+{
+  "update_info": {
+    "version": 1.0,
+    "message": "test",
+    "download_link": "test",
+    "dialog_cancel": false,
+    "after_update_msg": "Thanks for updated"
+  },
+  "maintenance": {
+    "maintenance_mode": false,
+    "message": "test"
+  }
+}

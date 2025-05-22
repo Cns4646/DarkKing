@@ -7,7 +7,7 @@
     "after_update_msg": "Thanks for updated"
   },
   "maintenance": {
-    "maintenance_mode": false,
+    "maintenance_mode": true,
     "message": "test"
   }
 }
